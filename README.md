@@ -1,4 +1,4 @@
-# Neuralne_mreze
+# Neuralne mreze
 
 Data je mat fajl sa podacima koje treba klasifikovati primenom feedforward neuralne mreže. Prve dve kolone sadrže obeležja, dok je u trećoj koloni označena pripadnost klasi. 
     
