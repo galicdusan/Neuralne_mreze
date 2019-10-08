@@ -2,7 +2,7 @@
 
 Zadatak 1:
 
-Data je mat fajl sa podacima koje treba klasifikovati primenom feedforward neuralne mreže. 
+Dat je mat fajl sa podacima koje treba klasifikovati primenom feedforward neuralne mreže. 
 
 Zadatak 2:
 
