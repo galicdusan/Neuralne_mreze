@@ -1,2 +1,2 @@
 # Neuralne_mreze
-Resenje dva jednostavna zadatka iz neuralnih mreza
+Resenje dva zadatka iz neuralnih mreza koristeci matlab.
